@@ -1,0 +1,32 @@
+body{
+	background-color:#e5e5e5;
+	margin:auto;
+	font-family: arial;
+}
+h1{
+	color:#ff0000;
+	text-align: center;
+}
+p{
+	color:#555555;
+	font-size: 18px;
+}
+ul{margin:auto;
+	position:relative;
+	}
+li{
+	
+	list-style: none;
+}
+article{
+	margin:auto;
+	position:relative;
+	width:1000px;
+	background-color: #ffffff;
+	border:1px solid #ffffff;
+	border-radius: 5px;
+	color:#555555;
+	font-size: 18px;
+	padding:50px;
+
+}
